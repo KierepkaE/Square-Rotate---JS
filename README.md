@@ -1,6 +1,6 @@
 # rotate the square
 
-### Press button to rotate the square.
+### Press button "turn" to rotate the square.
 
 - JavaScript
 - HTML
