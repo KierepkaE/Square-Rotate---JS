@@ -1,3 +1,7 @@
-# Square-Rotate---JS
+# rotate the square
 
-https://kierepkae.github.io/Square-Rotate---JS/
+### Press button to rotate the square.
+
+- JavaScript
+- HTML
+- CSS
